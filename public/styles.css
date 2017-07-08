@@ -1,0 +1,18 @@
+body {
+   font-family: Arial;
+}
+
+.error {
+  color: red;
+  background-color: #f2baba;
+  border-radius: 5px;
+  padding:10px;
+}
+
+.code {
+  color: gray;
+  font-family: Courier;
+  background-color: #e5e5e5;
+  border-radius: 5px;
+  padding:10px;
+}
